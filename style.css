@@ -1,0 +1,75 @@
+/* Navbar */
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+    margin-right: 1rem;
+}
+
+.nav-link:hover {
+    color: #007bff;
+}
+
+/* Sections */
+section {
+    padding: 60px 0;
+}
+
+#about h2, #feedback h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#about p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+/* Quiz Section */
+#quiz-container {
+    margin-bottom: 20px;
+}
+
+#next-btn, #submit-btn {
+    margin-right: 10px;
+}
+
+/* Feedback Form */
+#feedback-form .form-group {
+    margin-bottom: 20px;
+}
+
+#feedback-form label {
+    font-weight: bold;
+}
+
+#feedback-form .form-control {
+    border-radius: 0;
+}
+
+#feedback-form button {
+    width: 100%;
+}
+
+/* Footer */
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+footer h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+footer p {
+    margin: 0;
+}
